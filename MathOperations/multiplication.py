@@ -1,5 +1,5 @@
 class Multiplication:
 
     @staticmethod
-    def difference(minuend, subtraend):
-        return minuend * subtraend
+    def multiplication(multiplier, multiplicand):
+        return multiplier * multiplicand
