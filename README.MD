@@ -12,6 +12,9 @@ The steps taken to create a square using turtle in python is a good example of i
 "Inheritance is the ability to define a new class that is a modified version
 of an existing class" or "the ability to define a new class that is a modified version of an existing
 class".(Downey)
+Python class inheritance allows for attributes and methods to be inherited from a parent class.  
+This allows for the creation of a subclass and get all the functionality of the parent class and we can write new functionality w/o effecting the parent class in anyway.
+
 
 ### Polymorphism
 
