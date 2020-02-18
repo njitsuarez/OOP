@@ -15,6 +15,7 @@ class".(Downey)
 Python class inheritance allows for attributes and methods to be inherited from a parent class.  
 This allows for the creation of a subclass and get all the functionality of the parent class and we can write new functionality w/o effecting the parent class in anyway.
 [click here to watch a great YouTube tutorial explaining inheritance in detail](https://www.youtube.com/watch?v=RSl87lqOXDE)
+[click here to inheritance examples](https://www.youtube.com/watch?v=RSl87lqOXDE)
 
 ### Polymorphism
 
