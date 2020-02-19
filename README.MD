@@ -29,7 +29,11 @@ w/ input of different datat-ypes, class(es) or inputs.
 * [link to an example of polymorphism](https://github.com/njitsuarez/OOP/tree/master/Polymorphism)
 
 #### Sources:
+
+Ahlawat, Abhishek. _Introduction to OPP_. StudyTonight Web. http://www.studytonight.com/python
+
 Downey, _Allen B. Think Python_. O'Reily Media Inc. Sebastopol, CA. December, 2015. 
 
 freeCodeCamp. _How to explain object-oriented programming concepts to a 6-year-old_.
 27 June 2018. Web. https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/
+
