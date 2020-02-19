@@ -19,7 +19,7 @@ This allows for the creation of a subclass and get all the functionality of the 
 
 ### Polymorphism
 Polymorphism is using the same function name for different types.
-*[link to an example of polymorphism](https://github.com/njitsuarez/OOP/tree/master/Polymorphism)
+* [link to an example of polymorphism](https://github.com/njitsuarez/OOP/tree/master/Polymorphism)
 
 ###
 ###Sources:
