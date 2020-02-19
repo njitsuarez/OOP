@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.com/njitsuarez/gettingstartedDockerIS218HW2.svg?branch=master)](https://travis-ci.com/njitsuarez/gettingstartedDockerIS218HW2)
+[![Build Status](https://travis-ci.com/njitsuarez/OOP.svg?branch=master)](https://travis-ci.com/njitsuarez/OOP.svg?branch=master)
+
+
 # Object Oriented Programing Tutorial using My Calculator Program
 My calculator program is a program that performs basic arithmetic operations.
 
