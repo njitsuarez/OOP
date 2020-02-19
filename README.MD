@@ -18,6 +18,7 @@ This allows for the creation of a subclass and get all the functionality of the 
 [click here to inheritance examples](https://github.com/njitsuarez/OOP/tree/master/Inheritance)
 
 ### Polymorphism
+Polymorphism is using the same function name for different types.
 
 ###
 ###Sources:
