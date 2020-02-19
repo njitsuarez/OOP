@@ -6,7 +6,7 @@ My calculator program is a program that performs basic arithmetic operations.
 Abstraction and encapsulation are often used synonymous with each other. 
 Abstraction is achieved through encapsulation and refers to the steps taken within the function.
 The steps taken to create a square using turtle in python is a good example of inheritance.
-[link to an example of abstraction](https://github.com/njitsuarez/OOP/blob/master/DrawSquare/DrawSquare.py)
+*[link to an example of abstraction](https://github.com/njitsuarez/OOP/blob/master/DrawSquare/DrawSquare.py)
 
 ### Inheritance
 "Inheritance is the ability to define a new class that is a modified version
@@ -14,11 +14,12 @@ of an existing class" or "the ability to define a new class that is a modified v
 class".(Downey)
 Python class inheritance allows for attributes and methods to be inherited from a parent class.  
 This allows for the creation of a subclass and get all the functionality of the parent class and we can write new functionality w/o effecting the parent class in anyway.
-[click here to watch a great YouTube tutorial explaining inheritance in detail](https://www.youtube.com/watch?v=RSl87lqOXDE)
-[click here to inheritance examples](https://github.com/njitsuarez/OOP/tree/master/Inheritance)
+* [click here to watch a great YouTube tutorial explaining inheritance in detail](https://www.youtube.com/watch?v=RSl87lqOXDE)
+* [click here to inheritance examples](https://github.com/njitsuarez/OOP/tree/master/Inheritance)
 
 ### Polymorphism
 Polymorphism is using the same function name for different types.
+*[link to an example of polymorphism](https://github.com/njitsuarez/OOP/tree/master/Polymorphism)
 
 ###
 ###Sources:
