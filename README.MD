@@ -16,6 +16,10 @@ of an existing class" or "the ability to define a new class that is a modified v
 class".(Downey)
 Python class inheritance allows for attributes and methods to be inherited from a parent class.  
 This allows for the creation of a subclass and get all the functionality of the parent class and we can write new functionality w/o effecting the parent class in anyway.
+#### 3 Benefits of using Inheritance
+1.  Less code repetition
+1. Structured Code: By dividing the code into classes, software can be structured better by dividing functionality into classes.
+1. Makes the code scalable.
 * [click here to watch a great YouTube tutorial explaining inheritance in detail](https://www.youtube.com/watch?v=RSl87lqOXDE)
 * [click here to inheritance examples](https://github.com/njitsuarez/OOP/tree/master/Inheritance)
 
