@@ -1,9 +1,8 @@
 [![Build Status](https://travis-ci.com/njitsuarez/OOP.svg?branch=master)](https://travis-ci.com/njitsuarez/OOP.svg?branch=master)
 
 
-# Object Oriented Programing Tutorial using My Calculator Program
-My calculator program is a program that performs basic arithmetic operations.
-
+# Object Oriented Programing Tutorial
+![OOP](https://www.studytonight.com/python/images/oops-concept-basic.png)
 ### Abstraction
 Abstraction and encapsulation are often used synonymous with each other. 
 Abstraction is achieved through encapsulation and refers to the steps taken within the function.
