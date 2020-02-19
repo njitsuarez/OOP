@@ -17,4 +17,4 @@ class Triangle(aBase, aHeight):
         return (self.base * self.height)
 
 sqre = Square(3)
-tri = Triagle(4, 2)
+tri = Triangle(4, 2)
