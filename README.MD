@@ -3,7 +3,7 @@
 
 # Object Oriented Programing Tutorial
 ![OOP](https://www.studytonight.com/python/images/oops-concept-basic.png)
-### Abstraction
+### Abstraction / Encapsulation
 Abstraction and encapsulation are often used synonymous with each other. 
 Abstraction is achieved through encapsulation and refers to the steps taken within the function.
 The steps taken to create a square using turtle in python is a good example of inheritance.
